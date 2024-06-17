@@ -1,0 +1,3 @@
+merchant_id,mCode,name,type,PhoneNo,bank,account_number,ifsc_code,amount,fundTransferType
+1,PSSPL-IG5B,Paythrough Software and solution pvt. ltd.,Public Limited,7477638690,State Bank of India,40962502850,SBIN00010608,3300,NEFT
+2,PUSPL-IF5B,Codelogicx Software Technology pvt. ltd.,Public Limited,7001642289,Axis Bank,30962502886,SBIN00010681,4300,NEFT
